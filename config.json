@@ -24,7 +24,7 @@
     },
     {
       "core": false,
-      "difficulty": 2,
+      "difficulty": 5,
       "slug": "gigasecond",
       "topics": [
         "dates",
